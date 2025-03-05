@@ -6,15 +6,16 @@
 </div>
 
 <!-- Presentation -->
+
 <p>
   Hi 👋, I'm Fellipe!.
 
-  - 🌱 I’m currently studying Systems Analysis and Development <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I’m currently studying Systems Analysis and Development 
 
   - 🔭 I am looking for my first job opportunity!
 </p>
 
-<!-- Dropdown -->!
+<!-- Dropdown -->
 
 <details>
   <summary>👨‍💻 More about me</summary>
@@ -29,7 +30,7 @@
 
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=felppppp&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 <p align="left">
